@@ -1,0 +1,7 @@
+/node_modules
+/pip-admin-shell
+/pip-admin-system
+/pip-admin-content
+/pip-admin-support
+/pip-admin-app
+package-lock.json
